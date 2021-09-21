@@ -1,3 +1,3 @@
-# GDP_and_CO2
+# Constant 2010 US$
 
 Git Exercise 1.4
